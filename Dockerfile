@@ -31,4 +31,5 @@ RUN pip install opencv-python
 # Prep to run code
 # For dev we recommend using docker run -v to map your code
 # and model, data folders.
+
 # For prod, use this docker image as the base to copy the code.
