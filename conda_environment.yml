@@ -1,0 +1,10 @@
+name: pytorch-cpu
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.7.3
+  - ipython=7.5.0
+  - pytorch-cpu
+  - torchvision-cpu
+  - pandas
